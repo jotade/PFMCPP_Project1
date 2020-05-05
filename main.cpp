@@ -51,85 +51,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       car
+//  action 1:   the car starts engine
+car.startEngine();
+//  action 2:   the car accelerates
+car.accelerate();
+//  action 3:   the car stops
+car.stop(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       person     
+//  action 1:   the person walks
+person.walk();  
+//  action 2:   the person runs
+person.run();
+//  action 3:   the person sleeps
+person.sleep(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       horse
+//  action 1:   the horse eats
+horse.eat();
+//  action 2:   the horse jumps
+horse.jumps();
+//  action 3:   the horse kicks
+horse.kick(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mobile
+//  action 1:   the mobile rings
+mobile.rings();
+//  action 2:   the mobile vibrates
+mobile.vibrate();
+//  action 3:   the mobile shows notification
+mobile.showNotification(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       camera
+//  action 1:   the camera captures picture
+camera.capturePicture();
+//  action 2:   the camera records video
+camera.recordVideo();
+//  action 3:   the camera triggers flash
+camera.triggerFlash();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog plays
+dog.play();
+//  action 2:   the dog barks  
+dog.bark();
+//  action 3:   the dog fetches the ball
+dog.fetchBall(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chef
+//  action 1:   the chef cooks 
+chef.cook();
+//  action 2:   the chef serves the plate
+chef.servePlate();
+//  action 3:   the chef chops
+chef.chop(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       aircraft
+//  action 1:   the aircraft takes off
+aircraft.takeOff();
+//  action 2:   the aircraft climbs
+aircraft.climb();
+//  action 3:   the aircraft lands
+aircraft.land(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       radio
+//  action 1:   the radio tunes station
+radio.tuneStation();
+//  action 2:   the radio saves station
+radio.saveStation();
+//  action 3:   the radio makes noise
+radio.makeNoise(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fridge
+//  action 1:   the fridge cools
+fridge.cool();
+//  action 2:   the fridge freeze
+fridge.freeze();
+//  action 3:   the makes ice 
+fridge.makeIce(); 
 
 
 #endif
